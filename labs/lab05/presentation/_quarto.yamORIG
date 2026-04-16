@@ -4,31 +4,31 @@ project:
 
 standalone: true
 self-contained: true
-slide-level: 2
+slide-level: 1
 lang: ru-RU
+
 crossref:
-  lof-title: Список иллюстраций
-  lot-title: Список таблиц
-  lol-title: Листинги
-format: # Formats
-  beamer: # Pdf output format
+  lof-title: "Список иллюстраций"
+  lot-title: "Список таблиц"
+  lol-title: "Листинги"
+
+format:
+  beamer: # PDF
     toc: true
-    toc-title: Содержание
+    toc-title: "Содержание"
     number-sections: false
     number-depth: 1
     colorlinks: false
     toc-depth: 1
-    aspectratio: 169
+    aspectratio: 169  # 16:9
     section-titles: true
-    incremental: true
-    navigation: horizontal
-    csquotes: true
-    indent: true
+    incremental: false
     include-in-header:
       - file: _resources/tex/beamer.tex
     babel-lang: russian
     babel-otherlangs: english
-  revealjs: # Html output
+
+  revealjs: # HTML
     transition: slide
     margin: 0.2
     smaller: true
