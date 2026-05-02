@@ -1,26 +1,10 @@
-# [](https://github.com/bogomolova-pp/study_2025-2026_os-intro/compare/v11.11.11...v) (2026-04-20)
+# [](https://github.com/bogomolova-pp/study_2025-2026_os-intro/compare/v12.12.12...v) (2026-05-02)
 
-# [](https://github.com/bogomolova-pp/study_2025-2026_os-intro/compare/v10.10.10...v) (2026-04-19)
+# [](https://github.com/bogomolova-pp/study_2025-2026_os-intro/compare/v12.12.12...v) (2026-05-02)
 
-# [](https://github.com/bogomolova-pp/study_2025-2026_os-intro/compare/v0.0.7...v) (2026-04-18)
+## [22.22.22](https://github.com/bogomolova-pp/study_2025-2026_os-intro/compare/v7.7.7...v22.22.22) (2026-03-21)
 
-# [](https://github.com/bogomolova-pp/study_2025-2026_os-intro/compare/v9.9.9...v) (2026-04-16)
-
-# [](https://github.com/bogomolova-pp/study_2025-2026_os-intro/compare/v9.9.9...v) (2026-04-16)
-
-# [](https://github.com/bogomolova-pp/study_2025-2026_os-intro/compare/v9.9.9...v) (2026-04-16)
-
-# [](https://github.com/bogomolova-pp/study_2025-2026_os-intro/compare/v8.8.8...v) (2026-04-11)
-
-# [](https://github.com/bogomolova-pp/study_2025-2026_os-intro/compare/v222.222.222...v) (2026-03-22)
-
-# [](https://github.com/bogomolova-pp/study_2025-2026_os-intro/compare/v7.7.7...v) (2026-03-21)
-
-# [](https://github.com/bogomolova-pp/study_2025-2026_os-intro/compare/v6.6.6...v) (2026-03-15)
-
-# [](https://github.com/bogomolova-pp/study_2025-2026_os-intro/compare/v5.5.5...v) (2026-03-15)
-
-#  (2026-03-14)
+## [1.2.4](https://github.com/bogomolova-pp/study_2025-2026_os-intro/compare/950024274ac04defc173b704d0c8efbc3d69a745...v1.2.4) (2026-03-02)
 
 
 ### Features
